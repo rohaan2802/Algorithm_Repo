@@ -63,11 +63,11 @@ Design and Analysis of Algorithms (CS-2009) at FAST-NUCES Islamabad, Fall 2025. 
 | Lectures | 22 |
 | Slide decks (PPT/PPTX) | 25 |
 | C++ source files | 5 |
-| Study notes (Markdown) | 15 |
+| Study notes (Markdown) | 14 |
 | PDF documents | 28 |
 | Note and problem images | 45 |
 | Screenshots | 30 |
-| Files in total | 139 |
+| Files in total | 138 |
 
 ## Lectures
 
@@ -155,7 +155,7 @@ Algorithm_Repo/
 ├── Lecture #22/                          (1 file)
 ├── Notes/                                (53 files)
 ├── Papers/                               (10 files)
-├── Practice Problems/                    (12 files)
+├── Practice Problems/                    (11 files)
 │   └── String_Matching_Program/          (4 files)
 ├── assets/
 │   ├── screenshots/   30 images
